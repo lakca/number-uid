@@ -1,6 +1,6 @@
 {
   "name": "number-uid",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "generate number filled uid.",
   "main": "index.js",
   "scripts": {
