@@ -6,13 +6,15 @@
   "scripts": {
     "test": "node test.js",
     "cover": "istanbul cover test.js",
-    "ci": "npm run cover"
+    "ci": "npm run cover",
+    "release": "standard-version"
   },
   "author": "lakca",
   "license": "MIT",
   "devDependencies": {
     "codecov": "^3.0.4",
-    "istanbul": "^0.4.5"
+    "istanbul": "^0.4.5",
+    "standard-version": "^4.4.0"
   },
   "repository": {
     "type": "git",
