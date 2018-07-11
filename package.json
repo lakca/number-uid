@@ -1,0 +1,21 @@
+{
+  "name": "number-uid",
+  "version": "0.0.1",
+  "description": "generate number filled uid.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "cover": "istanbul cover test.js",
+    "ci": "npm run cover"
+  },
+  "author": "lakca",
+  "license": "MIT",
+  "devDependencies": {
+    "codecov": "^3.0.4",
+    "istanbul": "^0.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakca/number-uid.git"
+  }
+}
